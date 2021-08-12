@@ -1,5 +1,4 @@
-<!-- <h1> </h1> -->
-<iframe width="1211" height="681" src="https://www.youtube.com/embed/8Uwn5M6WTe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <div align="center"> 
   <a href="https://github.com/claudinei-casa">
   <img height="170em"   align="center" src="https://github-readme-stats.vercel.app/api?username=claudinei-casa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
