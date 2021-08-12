@@ -1,6 +1,6 @@
 <h1> Iaee, </h1>
 
-<div>
+<div align="center"> 
   <a href="https://github.com/claudinei-casa">
   <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=claudinei-casa&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudinei-casa&&layout=compact&hide=shell&theme=jolly"/>
