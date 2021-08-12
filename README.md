@@ -2,8 +2,8 @@
 
 <div align="center"> 
   <a href="https://github.com/claudinei-casa">
-  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=claudinei-casa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudinei-casa&&layout=compact&hide=shell&theme=dark"/>
+  <img height="170em"   align="center" src="https://github-readme-stats.vercel.app/api?username=claudinei-casa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudinei-casa&&layout=compact&hide=shell&theme=dark"/>
 </div>
  <br>
 <div  align="center"> 
