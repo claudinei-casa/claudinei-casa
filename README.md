@@ -20,7 +20,7 @@
         <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
         <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
         <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
-  <a href="https://vuejs.org/" target="_blank"> <svg class="logo" viewBox="0 0 128 128" width="24" height="24" data-v-5f26462c=""><path fill="#42b883" d="M78.8,10L64,35.4L49.2,10H0l64,110l64-110C128,10,78.8,10,78.8,10z" data-v-5f26462c=""></path><path fill="#35495e" d="M78.8,10L64,35.4L49.2,10H25.6L64,76l38.4-66H78.8z" data-v-5f26462c=""></path></svg> </a>
+  <a href="https://vuejs.org/" target="_blank"> <img alt="logo-vue" src="https://sfc.vuejs.org/logo.svg"></a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.svg" alt="Vue.js" width="40" height="40" /> </a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.svg" alt="Vue.js" width="40" height="40" /> </a>
 </p>
