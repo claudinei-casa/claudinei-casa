@@ -14,27 +14,27 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 		<!-- Vue -->
-  		<a style="text-decoration: none;" href="https://vuejs.org/" target="_blank"> <img alt="logo-vue" src="https://sfc.vuejs.org/logo.svg" width="40" height="40"></a>
+  		<img alt="logo-vue" src="https://sfc.vuejs.org/logo.svg" width="40" height="40">
 		<!-- JS -->
-        <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
 		<!--  Django -->
-		<a style="text-decoration: none;" href="https://www.djangoproject.com/" target="_blank"> <img src="https://code.djangoproject.com/chrome/site/img/logo-django.svg" alt="Django" width="60" height="40" /> </a>
+		<img src="https://code.djangoproject.com/chrome/site/img/logo-django.svg" alt="Django" width="60" height="40" />
 		<!-- Git -->
-        <a style="text-decoration: none;" style="text-decoration: none;" href="https://git-scm.com/" target="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+        	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
 		<!-- Linux -->
-        <a style="text-decoration: none;" href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
+     	 <img style="text-decoration: none;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
 		<!-- Python -->
-        <a style="text-decoration: none;" href="https://www.python.org/" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="100" height="40" /> </a>
+        <img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="100" height="40" />
 		<!-- Android -->
-        <a style="text-decoration: none;" href="https://developer.android.com/" target="_blank" > <img src="https://developer.android.com/static/images/logos/android.svg" alt="Android" width="40" height="40" /> </a>
+<img src="https://developer.android.com/static/images/logos/android.svg" alt="Android" width="40" height="40" />
 		<!-- Gradle -->
-        <a style="text-decoration: none;" href="https://gradle.com/" target="_blank"> <img src="https://gradle.com/_next/static/media/logo-gradle.c1f12d23.svg" alt="Gradle" width="80" height="40" /> </a>
+       <img src="https://gradle.com/_next/static/media/logo-gradle.c1f12d23.svg" alt="Gradle" width="80" height="40" />
 		<!-- Kotlin -->
-        <a style="text-decoration: none;" href="https://kotlinlang.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png" alt="Kotlin" width="40" height="40" /> </a>
+       <img src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png" alt="Kotlin" width="40" height="40" />
 		<!-- Java -->
-		<a style="text-decoration: none;" href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" width="40" height="40" /> </a>
+		<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" width="40" height="40" />
 		<!-- Flutter -->
-		<a style="text-decoration: none;" href="https://flutter.dev/" target="_blank"> <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" alt="Flutter" width="80" height="40" /> </a>
+		<img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" alt="Flutter" width="80" height="40" />
  </a>
 </p>
 
